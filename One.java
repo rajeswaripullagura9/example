@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Checkpolidrome {
 
-	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 //		String reverse= "";
 //		System.out.println("enter your polindrome:");
